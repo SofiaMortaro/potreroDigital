@@ -1,0 +1,28 @@
+main{
+  display: inline-block;
+  vertical-align: top;
+width: 100%;
+}
+
+main section{
+  width: 80%
+  display:flex;
+  flex-direction: column;
+
+}
+
+body{
+  margin: 0%;
+}
+
+html{
+  font-family: 'Varela Round', sans-serif;
+}
+h1{
+  font-weight:900;
+  font-size: xx-large;
+}
+
+img{
+  float: right;
+}
